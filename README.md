@@ -23,8 +23,10 @@ todo-list-android-app
 - Store tasks locally using Room Database
 - Clean and simple Android user interface
 
+- 
+## Screenshots
 
-
+![App Screenshot](screenshot.png)
 
 
 ## Technologies Used
