@@ -2,6 +2,18 @@
 
 This project is a simple Android To-Do List application built using Kotlin and Android Jetpack components.
 
+## Project Structure
+
+todo-list-android-app
+│
+├── MainActivity.kt
+├── Task.kt
+├── TaskDao.kt
+├── TaskDatabase.kt
+├── TaskRepository.kt
+├── TaskViewModel.kt
+└── README.md
+
 ## Features
 
 - Add new tasks
@@ -22,9 +34,6 @@ This project is a simple Android To-Do List application built using Kotlin and A
 - Room Database
 - MVVM Architecture
 
-## Author
-Raghu2424
-
 
 ## How to Run the Project
 
@@ -40,3 +49,6 @@ This Android To-Do List application helps users manage their daily tasks efficie
 The app uses Kotlin and Android Jetpack components such as ViewModel, LiveData, and 
 Room Database. It follows the MVVM architecture to maintain a clean and organized 
 structure for managing UI and data operations.
+
+## Author
+Raghu2424
