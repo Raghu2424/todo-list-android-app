@@ -24,6 +24,9 @@ todo-list-android-app
 - Clean and simple Android user interface
 
 
+
+
+file_00000000c320720ba0c2618ace93d6b1.png
 ## Technologies Used
 
 - Kotlin
