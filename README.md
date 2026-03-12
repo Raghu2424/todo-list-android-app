@@ -25,9 +25,6 @@ todo-list-android-app
 
 
 
-## App Screenshots
-
-![App Screenshot](screenshot.png)
 
 
 ## Technologies Used
