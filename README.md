@@ -25,7 +25,7 @@ todo-list-android-app
 
 
 
-![App IMG-20260312-WA0019.jpg](screenshot.png)
+![App IMG-20260312-WA0019.jpg](IMG-20260312-WA0019.jpg)
 
 
 
