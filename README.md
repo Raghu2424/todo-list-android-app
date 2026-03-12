@@ -24,6 +24,8 @@ todo-list-android-app
 - Clean and simple Android user interface
 
 
+## App screenshot 
+
 
 ![App IMG-20260312-WA0019.jpg](IMG-20260312-WA0019.jpg)
 
