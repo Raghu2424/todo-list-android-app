@@ -49,15 +49,6 @@ This Android To-Do List application helps users manage their daily tasks efficie
 The app uses Kotlin and Android Jetpack components such as ViewModel, LiveData, and 
 Room Database. It follows the MVVM architecture to maintain a clean and organized 
 structure for managing UI and data operations.
-## App Screenshots
-
-![Task List](screenshot1.png)
-
-![Add Task](screenshot2.png)
-
-![Task Details](screenshot3.png)
-
-
 
 
 ## Author
