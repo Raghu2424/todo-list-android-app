@@ -25,8 +25,10 @@ todo-list-android-app
 
 
 
+## App Screenshots
 
-file_00000000c320720ba0c2618ace93d6b1.png
+![Task List](file_00000000c320720ba0c2618ace93d6b1.png)
+
 ## Technologies Used
 
 - Kotlin
