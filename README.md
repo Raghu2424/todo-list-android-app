@@ -2,24 +2,28 @@
 
 This project is a simple Android To-Do List application built using Kotlin and Android Jetpack components.
 
-Features:
-- Add tasks
-- Edit tasks
-- Delete tasks
-- Store tasks locally using Room Database
+## Features
 
-Technologies:
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- View all tasks in a list
+- Store tasks locally using Room Database
+- Clean and simple Android user interface
+
+
+## Technologies Used
+
 - Kotlin
 - Android Studio
+- Android Jetpack
 - ViewModel
 - LiveData
 - Room Database
+- MVVM Architecture
 
-Architecture:
-MVVM (Model View ViewModel)
-
-Author:
-Nibe
+## Author
+Raghu2424
 
 
 ## How to Run the Project
